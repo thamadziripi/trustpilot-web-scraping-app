@@ -1,2 +1,2 @@
 # trustpilot-web-scraping-app
-A small web scraping application that automates the collection of consumer reviews from Trustpilot.
+A small web scraping application that automates the collection of consumer reviews from Trustpilot using XPath and Selenium.
